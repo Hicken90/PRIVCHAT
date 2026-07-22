@@ -1,0 +1,24 @@
+{
+  "name": "ShadowChat 98",
+  "short_name": "ShadowChat",
+  "description": "Windows 98 retro PWA chat app — P2P + AI, E2E encrypted",
+  "start_url": "/",
+  "display": "standalone",
+  "orientation": "portrait",
+  "background_color": "#008080",
+  "theme_color": "#008080",
+  "icons": [
+    {
+      "src": "data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' width='192' height='192' viewBox='0 0 192 192'%3E%3Crect width='192' height='192' fill='%23008080'/%3E%3Crect x='16' y='16' width='160' height='160' fill='%23c0c0c0' stroke='%23000' stroke-width='4'/%3E%3Crect x='16' y='16' width='160' height='24' fill='%23000080'/%3E%3Ctext x='24' y='33' fill='white' font-family='monospace' font-size='14' font-weight='bold'%3EShadowChat%3C/text%3E%3Ctext x='96' y='110' fill='%23000' font-family='monospace' font-size='40' font-weight='bold' text-anchor='middle'%3E98%3C/text%3E%3C/svg%3E",
+      "sizes": "192x192",
+      "type": "image/svg+xml",
+      "purpose": "any maskable"
+    },
+    {
+      "src": "data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' width='512' height='512' viewBox='0 0 512 512'%3E%3Crect width='512' height='512' fill='%23008080'/%3E%3Crect x='32' y='32' width='448' height='448' fill='%23c0c0c0' stroke='%23000' stroke-width='8'/%3E%3Crect x='32' y='32' width='448' height='64' fill='%23000080'/%3E%3Ctext x='48' y='76' fill='white' font-family='monospace' font-size='32' font-weight='bold'%3EShadowChat%3C/text%3E%3Ctext x='256' y='280' fill='%23000' font-family='monospace' font-size='120' font-weight='bold' text-anchor='middle'%3E98%3C/text%3E%3C/svg%3E",
+      "sizes": "512x512",
+      "type": "image/svg+xml",
+      "purpose": "any maskable"
+    }
+  ]
+}
