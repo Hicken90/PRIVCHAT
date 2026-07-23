@@ -1,6 +1,6 @@
 {
-  "name": "ShadowChat 98",
-  "short_name": "ShadowChat",
+  "name": "PRIVATECHAT&AI",
+  "short_name": "PRIVCHAT",
   "description": "Windows 98 retro PWA chat app — P2P + AI, E2E encrypted",
   "start_url": "/",
   "display": "standalone",
@@ -9,6 +9,10 @@
   "theme_color": "#008080",
   "scope": "/",
   "lang": "en",
+  "dir": "ltr",
+  "id": "/?source=pwa",
+  "categories": ["social", "productivity"],
+  "prefer_related_applications": false,
   "icons": [
     {
       "src": "/icons/icon-192x192.png",
@@ -21,6 +25,22 @@
       "sizes": "512x512",
       "type": "image/png",
       "purpose": "any maskable"
+    }
+  ],
+  "screenshots": [
+    {
+      "src": "/screenshots/screenshot-wide.png",
+      "sizes": "1280x720",
+      "type": "image/png",
+      "form_factor": "wide",
+      "label": "ShadowChat - main chat view"
+    },
+    {
+      "src": "/screenshots/screenshot-narrow.png",
+      "sizes": "540x720",
+      "type": "image/png",
+      "form_factor": "narrow",
+      "label": "ShadowChat - mobile view"
     }
   ]
 }
